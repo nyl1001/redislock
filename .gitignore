@@ -1,0 +1,13 @@
+/bin
+cscope.*
+tmp/
+bk/
+vendor/
+dist/
+.idea/
+.DS_Store
+.air.toml
+test/
+go.sum
+
+
